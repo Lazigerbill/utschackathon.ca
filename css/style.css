@@ -272,6 +272,16 @@ section.partners h6 {
 	font-weight: 400;
 	text-align: center;
 }
+section.sponsors .grid {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	-ms-flex-align: center;
+	align-items: center;
+}
 section.sponsors {text-align: center;background: #FFF;}
 section.sponsors img {
 	width: 80%;
@@ -341,8 +351,14 @@ tr:nth-child(even) {
 td:nth-child(2n+1) {
 	width: 150px;
 }
+td:nth-child(1){
+	width: 20px;
+}
+td:nth-child(3){
+	width: 200px;
+}
 td {
-	padding: 1em;
+	padding: 1.5em 1em;
 	border: none;
 }
 
