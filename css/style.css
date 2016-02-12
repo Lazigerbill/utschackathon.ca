@@ -341,7 +341,7 @@ section.schedule h2 span {
 }
 table {
 	width: 100%;
-	max-width: 700px;
+	max-width: 900px;
 	margin: 0 auto;
 }
 tr:nth-child(even) {
@@ -354,8 +354,8 @@ td:nth-child(2n+1) {
 td:nth-child(1){
 	width: 20px;
 }
-td:nth-child(3){
-	width: 200px;
+td:nth-child(2){
+	width: 60%;
 }
 td {
 	padding: 1.5em 1em;
