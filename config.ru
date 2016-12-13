@@ -4,7 +4,7 @@ use Rack::Static,
   :urls => ["/img", "/js", "/css"],
   :root => "public"
 
-use Rack::Favicon, image: "./favicon.ico"
+use Rack::Favicon, image: "public/img/favicon.ico"
 
 run lambda { |env|
   [
