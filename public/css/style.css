@@ -177,7 +177,8 @@ header {
 	min-height: 400px;
 }
 header.schedule-bg {
-	background: url("http://im.vsco.co/1/563ebc423e5d110369846/56631749f83a87031b322d61/vsco_120515.jpg?w=800&dpr=2") no-repeat center center; 
+	/*background: url("http://im.vsco.co/1/563ebc423e5d110369846/56631749f83a87031b322d61/vsco_120515.jpg?w=800&dpr=2") no-repeat center center; */
+	background: url("/img/group.jpg") no-repeat center center; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
