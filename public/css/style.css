@@ -187,7 +187,7 @@ header.schedule-bg {
 	height: 100%;
 }
 header.register-bg {
-	background: url("http://im.vsco.co/1/56613fe2f187711703211/5677bc13c46cbe4e0163bb7f/vsco_122115.jpg?w=800&dpr=2") no-repeat center center; 
+	background: url("/img/maker.jpg") no-repeat center center; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
