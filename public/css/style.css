@@ -83,7 +83,7 @@ p a:before {
 p a:hover:before {
     left: 0;
     right: 0;
-}  
+}
 
 /* NAVBAR */
 nav {}
@@ -178,7 +178,7 @@ header {
 }
 header.schedule-bg {
 	/*background: url("http://im.vsco.co/1/563ebc423e5d110369846/56631749f83a87031b322d61/vsco_120515.jpg?w=800&dpr=2") no-repeat center center; */
-	background: url("/img/group.jpg") no-repeat center center; 
+	background: url("/img/group.jpg") no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -187,7 +187,7 @@ header.schedule-bg {
 	height: 100%;
 }
 header.register-bg {
-	background: url("/img/maker.jpg") no-repeat center center; 
+	background: url("/img/maker.jpg") no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -197,7 +197,7 @@ header.register-bg {
 }
 
 header.test-bg {
-	background: url("/img/library1.jpg") no-repeat center center; 
+	background: url("/img/library1.jpg") no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -207,7 +207,7 @@ header.test-bg {
 }
 
 header.hero-bg {
-	background: url("http://im.vsco.co/1/55637dd33fb5c4269572/55649ff22756151d168b4579/vsco_052615.jpg?w=668&dpr=2") no-repeat center center; 
+	background: url("http://im.vsco.co/1/55637dd33fb5c4269572/55649ff22756151d168b4579/vsco_052615.jpg?w=668&dpr=2") no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -335,7 +335,7 @@ section.judging ol > li {
 	color: rgba(0,0,0,0.7);
 }
 section.judging ol ul {
-	
+
 }
 section.judging ol ul li {
 }
