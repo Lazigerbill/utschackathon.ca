@@ -2,6 +2,11 @@
 It's where you can style your website.
 
 created by STRAPPY (A script the help you get working.)*/
+#ccr{
+	max-width: 200px;
+	width: auto;
+	height: auto;
+}
 
 html,
 body{
