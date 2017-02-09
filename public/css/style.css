@@ -67,6 +67,11 @@ sup {
 .col-1-3 {
 	width: calc(100%/3);
 }
+.col-1-5 {
+	width: calc(100%/5) !important;
+	text-align: left;
+	/*vertical-align: top;*/
+}
 p.btn {
 	margin-top: 30px;
 }
